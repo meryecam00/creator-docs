@@ -1,10 +1,4 @@
----
-title: Script Tab
-description: The Script tab contains tools for writing, testing, and debugging scripts.
----
-
-The **Script** tab contains tools for writing and testing scripts. You can only access this tab when you're viewing or editing a script.
-
+clothing games
 <img src="../assets/studio/general/Toolbar-Script-Tab.png" width="780" alt="Script tab indicated in Studio toolbar" />
 
 ## Navigate
